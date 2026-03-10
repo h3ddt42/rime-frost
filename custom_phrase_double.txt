@@ -1,0 +1,24 @@
+# Rime table
+# coding: utf-8
+#@/db_name	custom_phrase_double.txt
+#@/db_type	tabledb
+
+ADDIE	addie	1
+Zotero	zotero	1
+Zotero	zote		1
+Hairpin	hairpin	1
+hairpin	hairpin	2
+hairpin	hairp	1
+hairpin	fajx		1
+toehold	toehold	1
+toehold	toeh		1
+toehold	toeho	1
+charrider	cha	1
+charrider	char	1
+charrider	charr	1
+OpenList	openl	1
+μ	ww	1
+μL	wwug	1
+μM	wwmo	1
+min	ff	1
+min	分钟	1
