@@ -21,4 +21,5 @@ OpenList	openl	1
 μL	wwug	1
 μM	wwmo	1
 min	ff	1
-min	分钟	1
+min	ffvs	1
+×   ig  1
