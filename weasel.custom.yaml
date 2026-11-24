@@ -7,11 +7,11 @@ customization:
 patch:
   "style/color_scheme": google
   "style/display_tray_icon": false
-  "style/font_face": "Ï¼ðÍÎÄ¿¬"
+  "style/font_face": "éœžé¹œæ–‡æ¥·"
   "style/font_point": 14
   "style/horizontal": true
-  "style/label_font_face": "Ï¼ðÍÎÄ¿¬"
-  "style/label_font_poin": 14
+  "style/label_font_face": "éœžé¹œæ–‡æ¥·"
+  "style/label_font_point": 14
   "style/layout/border_height": 0
   "style/layout/border_width": 0
   "style/layout/candidate_spacing": 10
