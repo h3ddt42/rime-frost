@@ -2227,3 +2227,44 @@ kubectl	kubectl
 mvn	mvn
 mvnd	mvnd
 maven	maven
+WorkBuddy	workbuddy	10
+DeepSeek	deepseek	10
+Kimi	kimi	10
+Grok	grok	10
+Qwen	qwen	10
+GLM	glm	10
+MiniMax	minimax	10
+Mistral	mistral	10
+Trae	trae	10
+Qoder	qoder	10
+Windsurf	windsurf	10
+CodeBuddy	codebuddy	10
+Aider	aider	10
+Lovable	lovable	10
+Replit	replit	10
+Antigravity	antigravity	10
+Devin	devin	10
+ClaudeCode	claudecode	10
+DALL-E	dalle	10
+Ideogram	ideogram	10
+Kling	kling	10
+Veo	veo	10
+Pika	pika	10
+HeyGen	heygen	10
+Hailuo	hailuo	10
+Luma	luma	10
+ElevenLabs	elevenlabs	10
+Suno	suno	10
+Udio	udio	10
+NotebookLM	notebooklm	10
+n8n	n8n	10
+Canva	canva	10
+Manus	manus	10
+OpenClaw	openclaw	10
+HuggingFace	huggingface	10
+Ollama	ollama	10
+LLM	llm	10
+MCP	mcp	10
+FineTuning	finetuning	10
+Multimodal	multimodal	10
+Embedding	embedding	10
