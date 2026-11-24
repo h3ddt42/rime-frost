@@ -23,3 +23,13 @@ OpenList	openl	1
 min	ff	1
 min	ffvs	1
 ×   ig  1
+VSEPR	vsepr	1
+VSEPR	vsep	1
+pH值	phzhi	1
+pH值	ph	1
+pH试纸	phshizhi	1
+pH试纸	phs	1
+IUPAC命名	iupac	1
+IUPAC命名	iupacmingming	1
+sp杂化	spzahua	1
+sp杂化	spzh	1
