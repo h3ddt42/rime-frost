@@ -8,6 +8,7 @@ patch:
     weak_collocation_penalty: -100
     rear_penalty: -10
   translator/contextual_suggestions: false
+  translator/enable_correction: true # 邻键纠错：盲打按错相邻键时自动纠正
   translator/max_homophones: 7
   translator/max_homographs: 7
   translator/preedit_format: [] #双拼输入不显示全拼拼音
