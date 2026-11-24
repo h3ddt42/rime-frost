@@ -1,4 +1,7 @@
 # Project exclude paths
+# 说明（2026-11-24）：为了让个人改动也能被 git 记录，
+# 已取消对 *.custom.yaml、custom_phrase_double.txt、
+# installation.yaml、user.yaml 的忽略。
 /venv/
 /cn_dicts_temp/
 /cn_dicts_dazhu/
@@ -12,15 +15,14 @@ sancang.dict.yaml
 dist/
 *.zip
 
+# 编译产物 / 同步缓存 / 用户词库数据库：自动生成，不需要记录
 build/
 sync/
 *.userdb/
-installation.yaml
-user.yaml
-*.custom.yaml
-!others/**/*.custom.yaml
 
-custom_phrase_double.txt
+# WorkBuddy 助手的工作笔记，不属于 Rime 配置
+.workbuddy/
+
 others/script/scel2txt/out/*
 others/script/scel2txt/scel/*
 cn_dicts/temp.txt
@@ -31,5 +33,5 @@ rime_console
 rime_deployer
 rime_patch
 
-*.zip
+# 399M 的语言模型，体积太大不入库
 wanxiang-lts-zh-hans.gram
