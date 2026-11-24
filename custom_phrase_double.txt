@@ -22,7 +22,7 @@ OpenList	openl	1
 μM	wwmo	1
 min	ff	1
 min	ffvs	1
-×   ig  1
+×	ig	1
 VSEPR	vsepr	1
 VSEPR	vsep	1
 pH值	phzhi	1
